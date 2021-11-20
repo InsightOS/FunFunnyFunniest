@@ -1,0 +1,2 @@
+# FunFunnyFunniest
+OperationFUN basic code.
